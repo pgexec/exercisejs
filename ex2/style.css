@@ -1,0 +1,42 @@
+*{
+    padding: 0%;
+    margin: 0;
+    box-sizing: 0;
+}
+html{
+    width: 100%;
+    height: 100%;
+}
+body{
+    background-color: blanchedalmond;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+    font-family: 'Bebas Neue', sans-serif;
+}
+
+section{
+    padding: 5rem;
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    width: 30rem;
+    height: 25rem;
+    border-radius: 10%;
+    box-shadow: 4px 3px 4px black ;
+    gap: 1rem;
+}
+
+#button{
+    width: 60px;
+}
+img{
+    margin: 0;
+    padding: 0;
+}
+
+
+
